@@ -8,4 +8,6 @@ __test__
 src
 
 # config
-.babelrc
+webpack.config.js
+.editorconfig
+jest.config
